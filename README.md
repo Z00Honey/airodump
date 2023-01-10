@@ -27,11 +27,11 @@ ESSID 추출
 
 ## Result
 
-- airodump
+- **airodump**
 ![image](https://user-images.githubusercontent.com/80230097/211672517-3ad1c351-8bc1-46aa-bdb9-768a34be3f0d.png)
 
-- my-airodump
-![image](https://user-images.githubusercontent.com/80230097/211672856-a1df8d0e-a4af-4a5d-8606-9c12255f14a8.png)
+- **my-airodump**
+<p align="center"><img src="https://user-images.githubusercontent.com/80230097/211677250-0bebf308-558b-4e50-b5c9-77ccf4be98e4.png" width="60%" height="60%"></p>
 <br><br>
 
 ## Reference
