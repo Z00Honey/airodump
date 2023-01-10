@@ -1,1 +1,2 @@
-gcc -o myairodump myairodump.c -lpcap
+myairodump: myairodump.o
+        gcc -o myairodump myairodump.o -lpcap
